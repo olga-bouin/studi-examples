@@ -19,6 +19,7 @@ class Enemy extends Character {
         this.name = name
         this.phrase = phrase
         this.power = power
+        this.speed = speed
     }
     sayPhrase = () => console.log(this.phrase)
     attack = () => console.log(`I'm attacking with a power of ${this.power}!`) //Surcharge de la méthode attack !
