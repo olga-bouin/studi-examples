@@ -52,14 +52,3 @@ console.log(alien1.name) // output: "Ali"
 console.log(bug2.species) // output: "bug"
 Robot1.sayPhrase() // output: "I can cook, swim and dance!"
 Robot2.transform() // output: "Optimus prime!"
-
-
-//////////////////////////1 Heritage
-
-
-//////////////////////////2 Encapsulation
-
-
-//////////////////////////3 Abstraction
-
-//////////////////////////4 Polymorphism
