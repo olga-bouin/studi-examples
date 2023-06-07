@@ -44,11 +44,11 @@ const alien1 = new Alien("Ali", "I'm Ali the alien!")
 const alien2 = new Alien("Lien", "Run for your lives!")
 const bug1 = new Bug("Buggy", "Your debugger doesn't work with me!")
 const bug2 = new Bug("Erik", "I drink decaf!")
-const Robot1 = new Robot("Tito", "I can cook, swim and dance!")
-const Robot2 = new Robot("Terminator", "Hasta la vista, baby!")
+const robot1 = new Robot("Tito", "I can cook, swim and dance!")
+const robot2 = new Robot("Terminator", "Hasta la vista, baby!")
 
 
 console.log(alien1.name) // output: "Ali"
 console.log(bug2.species) // output: "bug"
-Robot1.sayPhrase() // output: "I can cook, swim and dance!"
-Robot2.transform() // output: "Optimus prime!"
+robot1.sayPhrase() // output: "I can cook, swim and dance!"
+robot2.transform() // output: "Optimus prime!"
